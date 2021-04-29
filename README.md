@@ -7,5 +7,5 @@ main.dart -> _demoSaleRequest()
 
 ## Sale Request and Socket
 /lib/N5Clien/N5Client.dart
-sendSaleRequest() -> _sale() -> _request()
+- sendSaleRequest() -> _sale() -> _request()
 
